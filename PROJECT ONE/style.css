@@ -1,0 +1,247 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.general{
+    background-color:#14394c !important;
+    color: white;
+}
+.mission{
+    background-color: #14394c;
+    color: white;
+}
+.platform{
+    border-top: 1px solid grey;
+}
+.game{
+    box-shadow: 1px 1px 1px 1px;
+    border-radius: 5px;
+    padding: 3rem;
+}
+.NEWSLETTER{
+    background-color: #69112a;
+    color: white;
+}
+.story{
+    background-color:#FFF9F2;
+}
+.down{
+    background-color: #69112a;
+    color: white;
+    border-radius: 5px;
+    border: none;
+}
+.accordion{
+    border: none !important;
+} 
+.about{
+color:#69112a !important;
+}
+
+.download{
+    border: 1px solid white;
+    background-color: #69112a !important;
+    border-radius: 7px;
+    padding: 1rem;
+
+}
+.mage{
+    margin-left: 200px;
+}
+.nav-link{
+    text-transform: uppercase;
+    font-weight: bolder;
+}
+.nav-link .home{
+    color: #69112a;
+}
+.deed{
+    background-color: #14394c;
+    height: 70vh;
+    color: white;
+}
+.nerf{
+    background-color:#14394c;
+    color: white;
+    margin-top: 40px;
+    margin-bottom: 150px;
+    height: 45vh;
+}
+.every{
+    background-color: #FFF9F2;
+}
+.LETTER{
+    background-color: #69112a;
+    color: white;
+    margin-top: -50px;
+}
+
+.view, .interact, .main   {
+    list-style-type: none;
+    list-style-image: url(img/Icon.png);
+}
+
+.color{
+    background-color: white;
+    color: black;
+    border-top: 3px solid #69112a;
+    border-top-right-radius: 10px;
+    border-right: 2px solid #69112a;
+    border-top-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+.Architect {
+    list-style-image: url(img/Icon.png);
+}
+
+.fish{
+    background-color:#FFF9F2;
+    padding-top: 30px;
+}
+.introduce{
+    color: white;
+}
+
+.real{
+    background-color: #FFF9F2;
+    border-radius: 30px;
+}
+.Interactive, .Integration{
+    background-color: white;
+    border-top: 3px solid #69112a;
+    border-top-right-radius: 10px;
+    border-right: 2px solid #69112a;
+    border-top-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+.notch{
+    background-color: white;
+    border-top: 3px solid #69112a;
+    border-top-right-radius: 10px;
+    border-top-right-radius: 30px solid #69112a ;
+    border-right: 2px solid #69112a;
+    border-bottom-right-radius: 20px;
+}
+.getstarted{
+    background-color: #14394c;
+    color: white;
+    height: 82vh;
+}
+.objects{
+    box-shadow: 1px 1px 1px 1px;
+    align-items: center;
+    padding-left: 3rem;
+    border-radius: 5px;
+}
+footer{
+    border-top: 0.5px solid #cdccd4;
+}
+.sub{
+    background-color: black;
+    color: white;
+    border-radius: 2px;
+}
+.blog{
+    background-color: #14394c;
+    color: white;
+    max-width: 100%;
+}
+.article{
+    color: #69112a;
+    font-size:2rem;
+}
+.span{
+    opacity: 0.3;
+}
+.quis{
+    box-shadow: 1px 1px 2px;
+
+}
+.icon{
+    height: 5%;
+    width: 2%;
+}
+
+.div{
+    border-top: 1px solid #cdccd4;
+    margin-top: 3rem;
+    
+    margin-bottom: 2rem;
+}
+.divo{
+    background-color: #14394c;
+    color: white;
+}
+.general{
+    background-color:#14394c !important;
+    color: white;
+}
+.mission{
+    background-color: #14394c;
+    color: white;
+}
+.platform{
+    border-top: 1px solid grey;
+}
+.game{
+    box-shadow: 1px 1px 1px 1px;
+    border-radius: 5px;
+    padding: 3rem;
+}
+.NEWSLETTER{
+    background-color: #69112a;
+    color: white;
+}
+
+.power{
+    background-color: #69112a;
+    color: white;
+    border-radius: 3px;
+    border: none;
+}
+.device{
+    background-color:palegoldenrod ;
+    color: white;
+    border-radius: 3px;
+    border: none;
+}
+.android{
+box-shadow: 1px 1px 2px;
+}
+.markless{
+    background-color:#14394c;
+    color: white;
+}
+
+
+.story{
+    background-color:#FFF9F2;
+}
+.accordion{
+    border: none !important;
+}
+.dow{
+    background-color: #69112a;
+    color: white;
+    border-radius: 5px;
+    border: none;
+  }
+  .support{
+    border: 1px solid #e1dbd4;
+    border-radius: 6px;
+  }
+  .support p, .support h6{
+    opacity: 0.6;
+  }
+  @media screen and (max-width:600px){
+    .general{
+        margin: 0;
+    }
+    
+  }
+
+
+
+  
+
